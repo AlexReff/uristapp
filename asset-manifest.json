@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e61dc63a.css",
-    "main.js": "/static/js/main.f40c6f84.js",
+    "main.js": "/static/js/main.4e16d14c.js",
     "static/js/787.44424ae7.chunk.js": "/static/js/787.44424ae7.chunk.js",
     "static/media/dwarf_clothes.png": "/static/media/dwarf_clothes.397f827779634696c40d.png",
     "static/media/cp437.ttf": "/static/media/cp437.58fc9ba1735ebe7a12b8.ttf",
@@ -35,11 +35,11 @@
     "static/media/human_armor.png": "/static/media/human_armor.a19bf9c7bbd40a2f469b.png",
     "index.html": "/index.html",
     "main.e61dc63a.css.map": "/static/css/main.e61dc63a.css.map",
-    "main.f40c6f84.js.map": "/static/js/main.f40c6f84.js.map",
+    "main.4e16d14c.js.map": "/static/js/main.4e16d14c.js.map",
     "787.44424ae7.chunk.js.map": "/static/js/787.44424ae7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e61dc63a.css",
-    "static/js/main.f40c6f84.js"
+    "static/js/main.4e16d14c.js"
   ]
 }
